@@ -1,11 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-#######################################################################################
-#######################################################################################
 # PGNGS Scoring Script/Function for Pavlovia Keyboard Data       
 # Written by Summer Frandsen  
 # Modified and Adapted to updated task by Daniel Feldman                          
