@@ -7,8 +7,6 @@
 #######################################################################################
 #######################################################################################
 # PGNGS Scoring Script/Function for Pavlovia Keyboard Data       
-# Based on code from Summer Frandsen                            
-# Adapted, modified logic by Daniel Feldman
 #For UIC specific-project
 ##last edited 11/09/2022
 #######################################################################################
