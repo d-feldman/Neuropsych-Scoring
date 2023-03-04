@@ -1,6 +1,4 @@
-# PGNGS Scoring Script/Function for Pavlovia Keyboard Data       
-# Written by Summer Frandsen  
-# Modified and Adapted to updated task by Daniel Feldman                          
+# PGNGS Scoring Script/Function for Pavlovia Keyboard Data                               
 # Last edited 20220315
 #######################################################################################
 #######################################################################################
